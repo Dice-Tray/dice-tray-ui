@@ -17,9 +17,26 @@
   margin: 8px;
 }
 
-.submit {
+.doubleInput {
+  width: 336px;
+  height: 32px;
+  padding: 8px;
+  margin: 8px;
+}
+
+.submitButton {
   width: 160px;
   height: 32px;
   padding: 8px;
   margin: 8px;
+}
+
+.toggleButton {
+  width: 280px;
+  height: 32px;
+  padding: 8px;
+  margin: 8px;
+  border: none;
+  text-decoration: underline;
+  background-color: transparent;
 }

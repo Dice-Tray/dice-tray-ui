@@ -19,8 +19,13 @@ a {
   html {
     color-scheme: dark;
   }
+
   body {
     color: white;
     background: black;
   }
+}
+
+button:hover {
+  cursor: pointer;
 }
